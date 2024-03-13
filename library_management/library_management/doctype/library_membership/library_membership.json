@@ -62,7 +62,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-03-12 14:39:38.870878",
+ "modified": "2024-03-13 13:54:55.918620",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Library Membership",
@@ -91,6 +91,7 @@
    "report": 1,
    "role": "Librarian",
    "share": 1,
+   "submit": 1,
    "write": 1
   }
  ],
