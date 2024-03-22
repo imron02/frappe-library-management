@@ -58,7 +58,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-03-13 13:55:14.818355",
+ "modified": "2024-03-22 14:04:21.574236",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Library Transaction",
@@ -78,6 +78,8 @@
    "write": 1
   },
   {
+   "amend": 1,
+   "cancel": 1,
    "create": 1,
    "delete": 1,
    "email": 1,
